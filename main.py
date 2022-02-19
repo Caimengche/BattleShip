@@ -11,7 +11,7 @@ RED = (255, 0 ,0)
 YELLOW = (255, 255, 0)
 BLACK = (0 , 0 , 0)
 speed_ship = 3
-score = 0
+score = 0     
 font_name = pygame.font.match_font("arial")
 
 
